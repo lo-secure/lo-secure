@@ -454,7 +454,7 @@
 		"**/.project": true,
 		"**/.settings": true,
 		"**/.svn": true,
-		"**/anew_imports/": true,
+		"**/anew_exports/": true,
 		"**/CVS": true,
 		"**/node_modules/": true
 	},
