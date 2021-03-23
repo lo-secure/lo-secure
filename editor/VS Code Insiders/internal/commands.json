@@ -1,0 +1,52 @@
+[
+	{
+		"command": "editor.unfoldAll",
+		"key": "ctrl+\\",
+		"when": "editorTextFocus && foldingEnabled"
+	},
+	{
+		"command": "-editor.unfoldAll",
+		"key": "cmd+k cmd+j",
+		"when": "editorTextFocus && foldingEnabled"
+	},
+	{
+		"command": "editor.foldAll",
+		"key": "ctrl+/",
+		"when": "editorTextFocus && foldingEnabled"
+	},
+	{
+		"command": "-editor.foldAll",
+		"key": "cmd+k cmd+0",
+		"when": "editorTextFocus && foldingEnabled"
+	},
+	{
+		"command": "activitusbar.showExplorerView",
+		"key": "ctrl+shift+E",
+		"mac": "shift+cmd+E"
+	},
+	{
+		"command": "activitusbar.showSearchViewWithSelection",
+		"key": "ctrl+shift+F",
+		"mac": "shift+cmd+F"
+	},
+	{
+		"command": "activitusbar.showReplaceViewWithSelection",
+		"key": "ctrl+shift+H",
+		"mac": "shift+cmd+H"
+	},
+	{
+		"command": "activitusbar.showScmView",
+		"key": "ctrl+shift+G",
+		"mac": "shift+cmd+G"
+	},
+	{
+		"command": "activitusbar.showDebugView",
+		"key": "ctrl+shift+D",
+		"mac": "shift+cmd+D"
+	},
+	{
+		"command": "activitusbar.showExtensionsView",
+		"key": "ctrl+shift+X",
+		"mac": "shift+cmd+X"
+	}
+]

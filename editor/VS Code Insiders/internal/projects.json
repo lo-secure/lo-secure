@@ -1,0 +1,58 @@
+[
+	{
+		"enabled": true,
+		"group": "",
+		"name": "secure/anew",
+		"paths": [],
+		"rootPath": "/Users/home/lo/secure/anew/anew.code-workspace"
+	},
+	{
+		"enabled": true,
+		"group": "",
+		"name": "secure/archive",
+		"paths": [],
+		"rootPath": "/Users/home/lo/secure/archive/archive.code-workspace"
+	},
+	{
+		"enabled": true,
+		"group": "",
+		"name": "secure/develop",
+		"paths": [],
+		"rootPath": "/Users/home/lo/secure/develop/develop.code-workspace"
+	},
+	{
+		"enabled": true,
+		"group": "",
+		"name": "secure/product",
+		"paths": [],
+		"rootPath": "/Users/home/lo/secure/product/product.code-workspace"
+	},
+	{
+		"enabled": true,
+		"group": "",
+		"name": "shared/anew",
+		"paths": [],
+		"rootPath": "/Users/home/lo/shared/anew/anew.code-workspace"
+	},
+	{
+		"enabled": true,
+		"group": "",
+		"name": "shared/archive",
+		"paths": [],
+		"rootPath": "/Users/home/lo/shared/archive/archive.code-workspace"
+	},
+	{
+		"enabled": true,
+		"group": "",
+		"name": "shared/develop",
+		"paths": [],
+		"rootPath": "/Users/home/lo/shared/develop/develop.code-workspace"
+	},
+	{
+		"enabled": true,
+		"group": "",
+		"name": "shared/product",
+		"paths": [],
+		"rootPath": "/Users/home/lo/shared/product/product.code-workspace"
+	}
+]
